@@ -47,3 +47,40 @@ As the bugs cross over these swamps, they will be injured and after their health
 </tr>
 
 </table>
+
+
+## SpikeBall
+### Overview
+SpikeBall is a fast-paced, simple yet addicting game! Your character is a blue ball that will move wherever you click on the screen. There is also a yellow-colored spike ball that is constantly moving, bouncing off the walls. Unlike your character, the spike ball is constantly getting bigger and bigger. Your objective: stay away from the spike ball for as long as possible! Your score is directly linked to how long you can avoid getting hit!
+
+There are also two distractor cannons on the top and left. These will randomly shoot out pellets and if the spike ball hits a pellet it will change its direction so watch out for those!
+
+
+<table>
+
+<tr>
+<td>
+<img src="images/sb1.png" style="height:480px;"/>
+</td>
+<td>
+<img src="images/sb2.png" style="height:480px;"/>
+</td>
+<td>
+<img src="images/sb3.png" style="height:480px;"/>
+</td>
+</tr>
+
+
+<tr>
+<td>
+<img src="images/sb4.png" style="height:480px;"/>
+</td>
+<td>
+<img src="images/sb5.png" style="height:480px;"/>
+</td>
+<td>
+</td>
+</tr>
+
+
+</table>
