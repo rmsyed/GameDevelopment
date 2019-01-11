@@ -34,5 +34,16 @@ As the bugs cross over these swamps, they will be injured and after their health
 </td>
 </tr>
 
+<tr>
+<td>
+<img src="images/sw7.png" style="height:480px;"/>
+</td>
+<td>
+<img src="images/sw8.png" style="height:480px;"/>
+</td>
+<td>
+<img src="images/sw9.png" style="height:480px;"/>
+</td>
+</tr>
 
 </table>
